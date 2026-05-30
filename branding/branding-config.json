@@ -1,0 +1,66 @@
+{
+    "branding": {
+        "default": {
+            "productName": "MedMovil OS",
+            "slogan": "Movilidad Inteligente",
+            "description": "Plataforma de monitoreo y gestión del tráfico en tiempo real",
+            "icon": "fas fa-traffic-light",
+            "theme": {
+                "primaryColor": "#6366f1",
+                "secondaryColor": "#8b5cf6",
+                "accentColor": "#10b981",
+                "backgroundColor": "#0f172a",
+                "cardBackground": "#1e1b4b",
+                "textPrimary": "#ffffff",
+                "textSecondary": "#a78bfa",
+                "textMuted": "#94a3b8"
+            }
+        },
+        "templates": {
+            "smart_city": {
+                "productName": "SmartTraffic",
+                "slogan": "Tu tráfico, nuestro compromiso",
+                "theme": {
+                    "primaryColor": "#3b82f6",
+                    "secondaryColor": "#0ea5e9"
+                }
+            },
+            "eco_mobility": {
+                "productName": "EcoMove",
+                "slogan": "Movilidad Sostenible",
+                "theme": {
+                    "primaryColor": "#10b981",
+                    "secondaryColor": "#14b8a6"
+                }
+            },
+            "traffic_control": {
+                "productName": "TrafficControl",
+                "slogan": "Seguridad Vial",
+                "theme": {
+                    "primaryColor": "#ef4444",
+                    "secondaryColor": "#f97316"
+                }
+            }
+        },
+        "custom": {
+            "colorSchemes": [
+                {
+                    "name": "Gobierno",
+                    "colors": ["#0f172a", "#6366f1", "#ffffff"]
+                },
+                {
+                    "name": "Playa",
+                    "colors": ["#0f172a", "#0ea5e9", "#ffffff"]
+                },
+                {
+                    "name": "Montaña",
+                    "colors": ["#0f172a", "#14b8a6", "#ffffff"]
+                },
+                {
+                    "name": "Centro Histórico",
+                    "colors": ["#0f172a", "#f59e0b", "#ffffff"]
+                }
+            ]
+        }
+    }
+}
